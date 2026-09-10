@@ -9,3 +9,5 @@ Topics I will learn:
 - Copilot Chat
 - Copilot Agents
 - Responsible AI
+
+I created my first GitHub branch and am learning how branches and pull requests work.
